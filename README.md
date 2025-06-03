@@ -4,6 +4,8 @@ Este projeto tem como objetivo aplicar técnicas de Machine Learning para prever
 
 O trabalho foi desenvolvido como parte de uma atividade da pós-graduação em Inteligência Artificial da FIAP, envolvendo as etapas de exploração dos dados, análise de correlação, pré-processamento, testes com diferentes modelos de regressão e avaliação de desempenho.
 
+Vídeo explicativo: https://youtu.be/FGwAuJcCyS8
+
 ## Modelos Utilizados
 
 - Regressão Linear (`LinearRegression`)
